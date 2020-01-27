@@ -1,3 +1,4 @@
+from nb_00 import *
 import operator
 
 def test(a, b, cmp, cname=None):
